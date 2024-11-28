@@ -18,7 +18,7 @@
 
 ```bash
 git clone <URL_репозитория>
-cd calendar_service
+cd calendar_dz
 
 
 
